@@ -29,3 +29,4 @@ To set up "project-crud-mern" locally, follow these steps:
    yarn install  # or npm install
 8. Start the React frontend development environment:
    ```bash
+   yarn install or npm install
