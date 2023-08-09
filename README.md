@@ -23,10 +23,12 @@ To set up "project-crud-mern" locally, follow these steps:
 6. Start the Node.js server and backend development environment:
    ```bash
    yarn run dev or npm run dev
+   
 7. Install frontend dependencies:
    ```bash
    cd client
-   yarn install  # or npm install
+   yarn install or npm install
+   
 8. Start the React frontend development environment:
    ```bash
-   yarn install or npm install
+   yarn run dev or npm run dev
